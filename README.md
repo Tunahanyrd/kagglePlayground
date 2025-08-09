@@ -1,4 +1,4 @@
 # kagglePlayground
 
-Score: 0.96918 Kaggle score
+Score: 0.97037 Kaggle score - submission2.csv kaggle2.ipynb
 
